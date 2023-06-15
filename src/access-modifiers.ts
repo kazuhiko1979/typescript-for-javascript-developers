@@ -35,6 +35,8 @@ console.log(taro.name);
 // console.log(taro.age);
 // console.log(taro.nationality);
 
+
+
 console.log(taro);
 console.log(taro.profile());
 
